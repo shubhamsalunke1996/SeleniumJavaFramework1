@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-29T10:34:42 IST" name="Default suite" finished-at="2022-05-29T10:34:56 IST" duration-ms="13709">
+    <groups>
+    </groups>
+    <test started-at="2022-05-29T10:34:42 IST" name="Default test" finished-at="2022-05-29T10:34:56 IST" duration-ms="13709">
+      <class name="SeleniumWait.SeleniumWaitDemo">
+        <test-method signature="seleniumWaits()[pri:0, instance:SeleniumWait.SeleniumWaitDemo@2e005c4b]" started-at="2022-05-29T10:34:42 IST" name="seleniumWaits" finished-at="2022-05-29T10:34:56 IST" duration-ms="13655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumWaits -->
+      </class> <!-- SeleniumWait.SeleniumWaitDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
